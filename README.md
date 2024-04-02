@@ -1,7 +1,5 @@
 # 👋 Hello, World! I'm Aditya Sahu
 
-!Banner <!-- You can replace this with your own banner -->
-
 ## 🚀 About Me
 
 I'm a coding enthusiast who also loves singing, writing poems, thoughts, and affirmations. I'm currently diving deep into Python Full Stack Web Development with the Django framework. I'm always eager to collaborate on web-app development projects.
