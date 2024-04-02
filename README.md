@@ -27,7 +27,7 @@ Feel free to drop me an email at sahuaditya715@gmail.com
 
 ## 😄 Pronouns
 
-...
+He/Him
 
 ## ⚡ Fun fact 
 
