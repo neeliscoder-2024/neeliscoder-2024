@@ -23,7 +23,7 @@ Web-app Development
 
 ## 📫 How to reach me 
 
-Feel free to drop me an email at sahuaditya@gmail.com
+Feel free to drop me an email at sahuaditya715@gmail.com
 
 ## 😄 Pronouns
 
