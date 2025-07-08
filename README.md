@@ -8,8 +8,6 @@ I’m a full stack web developer with hands-on experience in Python, Django, HTM
 - Django
 - HTML & CSS
 - Git & Linux
-- Full Stack Web Development
-- Microsoft Azure
 
 ## 🎯 What I'm Working On
 Currently deepening my understanding of Django and full stack development, with focus on:
