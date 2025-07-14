@@ -9,29 +9,6 @@ I'm a full stack web developer with hands-on experience in Python, Django, HTML,
 - HTML & CSS
 - Git & Linux
 
-## 🎯 What I'm Working On
-Currently deepening my understanding of Django and full stack development, with focus on:
-- Frontend and backend integration
-- Responsive design
-- Web performance optimization
-- Authentication and navigation workflows
-
-## 📁 Featured Project
-**Netflix-Inspired Web App**
-- Search functionality
-- Watchlist tracking
-- User support features
-- Responsive layout and optimized performance
-
-## 📍 Location
-Whitefield, Bangalore
-
-## 🎯 Interests
-- **Coding:** Passionate about solving problems and building efficient, reusable code.
-- **Technology Enthusiast:** Enjoy exploring and thinking about emerging technologies and their real-world applications.
-- **Singing:** Love expressing creativity through music and vocal performance.
-- **Motivating Others:** Actively support and inspire peers through positive thinking and encouragement.
-
 ## 🐍 Python Skills
 **Core Concepts:** Functions, recursion, control statements, data structures (lists, dictionaries, iterators, generators).
 
@@ -65,6 +42,29 @@ Whitefield, Bangalore
 
 **Key Repository:**
 - Framework (Django)
+
+## 🎯 What I'm Working On
+Currently deepening my understanding of Django and full stack development, with focus on:
+- Frontend and backend integration
+- Responsive design
+- Web performance optimization
+- Authentication and navigation workflows
+
+## 📁 Featured Project
+**Netflix-Inspired Web App**
+- Search functionality
+- Watchlist tracking
+- User support features
+- Responsive layout and optimized performance
+
+## 🎯 Interests
+- **Coding:** Passionate about solving problems and building efficient, reusable code.
+- **Technology Enthusiast:** Enjoy exploring and thinking about emerging technologies and their real-world applications.
+- **Singing:** Love expressing creativity through music and vocal performance.
+- **Motivating Others:** Actively support and inspire peers through positive thinking and encouragement.
+
+## 📍 Location
+Whitefield, Bangalore
 
 ## 📫 Contact
 **Email:** sahuaditya715@gmail.com  
