@@ -28,6 +28,8 @@ I'm a full stack web developer with hands-on experience in Python, Django, HTML,
 - Decorators
 - Searching Techniques
 - Encapsulation & Polymorphism
+- Multi-threading
+- Inheritance
 
 ## 🌐 Django Skills
 **Framework Understanding:** Familiar with Django structure and MVC pattern.
