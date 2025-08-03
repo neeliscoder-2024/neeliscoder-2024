@@ -11,6 +11,8 @@ I'm a full stack web developer with hands-on experience in Python, Django, HTML,
 - Flask
 - Software Architecture 
 - AI
+- CDN
+
 
 ## 🐍 Python Skills
 **Core Concepts:** Functions, recursion, control statements, data structures (lists, dictionaries, iterators, generators).
