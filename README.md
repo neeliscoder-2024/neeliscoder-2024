@@ -8,6 +8,9 @@ I'm a full stack web developer with hands-on experience in Python, Django, HTML,
 - Django
 - HTML & CSS
 - Git & Linux
+- Flask
+- Software Architecture 
+- AI
 
 ## 🐍 Python Skills
 **Core Concepts:** Functions, recursion, control statements, data structures (lists, dictionaries, iterators, generators).
@@ -66,7 +69,7 @@ Currently deepening my understanding of Django and full stack development, with 
 - **Motivating Others:** Actively support and inspire peers through positive thinking and encouragement.
 
 ## 📍 Location
-Whitefield, Bangalore
+Bangalore
 
 ## 📫 Contact
 **Email:** sahuaditya715@gmail.com  
